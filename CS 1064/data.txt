@@ -1,0 +1,8 @@
+Name: Jamie
+Age: 28
+Salary: 22500
+Occupation: Student
+Name: Jill
+Age: 30
+Salary: 80000
+Occupation: Professor

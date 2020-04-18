@@ -1,0 +1,6 @@
+1. Did you find it harder to understand the code or to document it afterwards?
+	For a while I found 'mystery-hard1.py' hard to understand. However, once I understood the logic behind the code, I found it easier to document it.
+2. Overall, which problem was the hardest, and why?
+	'myster-hard1.py' was the hardest because it was dealing with both lists and arrays, which I found confusing at times, especially since both of them have similar functions.
+3. What does the unary * ("splat"/"unpack") operator do?
+	The unary operator unpacks a list into its individual components. This allows us to input the components of a list into functions that take separate arguments instead of lists.
